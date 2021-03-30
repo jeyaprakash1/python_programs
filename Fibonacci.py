@@ -1,3 +1,5 @@
+# fibbonaci  series
+
 f,s=0,1
 i=0
 print(f,s,end=" ")
